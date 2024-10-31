@@ -21,7 +21,7 @@ public class Event {
     @GeneratedValue
     private UUID id;
 
-    private String name;
+    private String title;
 
     private String description;
 
