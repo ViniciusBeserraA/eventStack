@@ -17,7 +17,6 @@ Alguns serviços da AWS também foram integrados para armazenamento e testes. Ab
 - <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="20"/> **Git**: Sistema de controle de versão distribuído para gerenciar o código-fonte.
 
 
-
 O projeto está organizado da seguinte forma:
 
 - `src/main/java`: Contém o código fonte Java do projeto.
@@ -30,6 +29,11 @@ O projeto está organizado da seguinte forma:
 - ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) (versão 11 ou superior)
 - ![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white) para o gerenciamento de dependências e build
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) para o banco de dados local
+
+## Documentação da API
+
+A documentação da API pode ser acessada através do Swagger UI em [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html).
+
 
 ## Observações
 
