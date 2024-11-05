@@ -14,6 +14,8 @@ Alguns serviços da AWS também foram integrados para armazenamento e testes. Ab
 - <img src="https://img.shields.io/badge/-Amazon%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" height="20"/> **S3**: Serviço de armazenamento utilizado para armazenar arquivos relacionados ao projeto.
 - <img src="https://img.shields.io/badge/-Amazon%20RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white" height="20"/> **RDS**: Serviço de banco de dados relacional para hospedar o PostgreSQL (atualmente desabilitado).
 - <img src="https://img.shields.io/badge/-Springdoc%20API-8A5B8A?style=for-the-badge&logo=spring&logoColor=white" height="20"/> **Springdoc API**: Biblioteca para gerar documentação de APIs usando Swagger com Spring.
+- <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="20"/> **Git**: Sistema de controle de versão distribuído para gerenciar o código-fonte.
+
 
 
 O projeto está organizado da seguinte forma:
